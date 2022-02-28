@@ -5,7 +5,7 @@
 
 Want to contribute?
 
-Due to the nature of mapmaking and permissions on gather-town, we ask all contributors setup GitHub Desktop and Tiled mapmaker and make pull requests from their own branch for approval. This setup will allow you to create maps using 32x32 square blocks and gather-town tilsets while allowing contributors to submit pull requests that include foreground, background, and asset images. These images once approved and merged to the master Concave-World repo will be implemented to the Concave World gather space.
+Due to the nature of mapmaking and permissions on gather-town, we ask all contributors to setup GitHub Desktop and Tiled Mapmaker and make pull requests from their own branch for approval. This setup will allow you to create maps using 32x32 square blocks and gather-town tilsets while allowing contributors to submit pull requests that include foreground, background, and asset images. These images, once approved and merged to the master Concave-World repo, will be implemented to the Concave World gather space.
 
 *Take note Concave-World has specific guidelines for mapmaking
 
@@ -31,7 +31,7 @@ Follow these instructions to get started:
 
 ![image](https://user-images.githubusercontent.com/99355623/156035847-5746ad19-9c86-47fb-bb4a-7987c09d735c.png)
 
-6. You now have the concave-world mapmaking repo on your desktop and can be used to work and save proposed maps.
+6. You now have the concave-world mapmaking repo on your desktop and can use it to work and save proposed maps.
 7. Take note Concave-World has specific guidelines for mapmaking that can be found here: PENDING
 
 FAQ's
