@@ -29,7 +29,7 @@ Follow these instructions to get started:
 
 ![image](https://user-images.githubusercontent.com/99355623/156035254-d9e1d843-682a-4173-85d2-a50211a0cc5d.png)
 
-![image](https://user-images.githubusercontent.com/99355623/156035422-7f402918-07f8-4c97-babb-a51311340e46.png)
+![image](https://user-images.githubusercontent.com/99355623/156035847-5746ad19-9c86-47fb-bb4a-7987c09d735c.png)
 
 6. You now have the concave-world mapmaking repo on your desktop and can be used to work and save proposed maps.
 7. Take note Concave-World has specific guidelines for mapmaking that can be found here: PENDING
