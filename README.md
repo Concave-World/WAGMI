@@ -1,3 +1,5 @@
+![Concave World](https://github.com/Concave-World/WAGMI/blob/main/Assets/concaveWorld.svg)
+
 - 👋 Hi, I’m @Concave-World
 - 👀 I’m interested in building a central repository for the Concave community to be able to build and innovate the Concave World space on Gather-Town. We strive to leverage gather town as a social hub for the community of the DeFi project Concave (http://concave.lol/)
 - ❓ This repository is a fork of gathertown/mapmaking repository (https://github.com/gathertown/mapmaking) and updates are fetched from upstream weekly.
